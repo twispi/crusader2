@@ -1,0 +1,15 @@
+{
+  "name": "firestore",
+  "connector": "loopback-connector-firestore",
+  "type": "service_account",
+  "private_key_id": "91bf2af411a86481950f5c1722813149ed26ed47",
+  "projectId": "crusader-e7684",
+  "clientEmail": "firebase-adminsdk-mgmxb@crusader-e7684.iam.gserviceaccount.com",
+  "client_id": "103221924693052988656",
+  "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDh5CpA9zwBDvNl\nIBKLhaV022dzBFWoZtiEf8UYC54keNL28r7E0AXMnXLzvcXHzBe6SMV6rDKpZho8\nnpMzADJHDqy/hCHIIjPgS2JgWTmlq4Mg4UZAPuvmzIt9qzlB03JzAhjRfQipXkEq\n5qhRSH5fJa6dFqpFpDef4YYHMCk7RiqM6NGIvSDB8v4Bq3TLrZe2R7Igw4Xkr/HJ\n8JMQz4pAWbRza9O6x9n0KYCJrJfWUMJEn6Xs8MmyHtqIjBbsg2NUAO1inb1yREzP\n8uorJhSNkfA4NcUEurNGrNDBAlfZvq4NDCazdfQCumfbpqhXo1aPhNL7wN5z6mnj\nOKqk95RPAgMBAAECggEAVzK/Ft35ZUUysqY7Um2QTbhGSlFxiXTN/vPdjucpMFYN\nxfM1rf7JRk+/KJTorLQ9spTV2oFvexHlbeIe23Cnd+OTzshATCPb16jx/FRlGu1G\nzKH5fuJrKOhrrmKy0xS/GONF1lRITC0MxfVNIzdzROJkcdJmf0Shjk+977dpKy40\npPYsea8Qm56TjFGWb3fmMRd1K9YXSRnIQp6CULjP5bR14VXV4cmAJELT4ot40vDf\nHV8gpemXe+Hwf0vVhmanLykQIZbNbtsB9mNx2KbBAdNfZ59uQeAnDUgRhPmcPNFU\nkYf9BeGHtOD29B69XmgMpEObVbntWfpFMi1g7g6B2QKBgQDxNJPB8ywQeWU1/QAT\nKSQ7h/K1V/wt3j4NX1w1Ier2zLD2ZPvzqGKyCyKjKkoaRtiqyr/cXGdKL4N1SaV6\nBI36rkv0/RBwT6pJBSW1g2QcGjkusAbCnclzUJkB+44mEHFQEd/TcRaRRokhZkIC\nkU40KpLaw6U0k922usgDx0/i9wKBgQDvvx/s+7BhJ21Fkq+IYXOh8VO2/pHP6k2C\nma0x6t/QTvAnD2LTDBeSqO1c6TMB73FFVCMmiLzjriAUULEqTIlQmyPWjn6sfyb3\nd9SQpIiiNtHvlE7dotQeEqHpzy6iExNMo2YZocKvLSLNK1Q1hW8dZwMVzzCVjUIh\n5IT1vYwraQKBgG2MaJNM4zV0PSCBELijFd6nxvbPyCv45QvjxJgpGHMQ0kqF4Nxw\nHKsqXYfnnBJFHQCs5uipWwwZekYZtbsuOGGjKcJR8VZhCEDzwoWm8B/HVTM8JUXc\nrfLepy98Vbo5+4zXIWYB1bMTaxKtQ8uwvOj6cQpEk1LG2Yq1WERHEKRPAoGBAJ63\nvjAK1FMNYgcMPE8ijQXqGUztraSi7huHF6UTZIaoq86AHiGwQK7kTPgUnqMqXKfU\nMs0g+0QUE8K/RPrG3qVRf+FcRrp2F1r/pub3NkmF12gvnCKY2KrsFOsQMUQ1MrKq\n/j373EJStFZ11/Ly2oPxnZZDq1tmwCBmBCwYB4L5AoGBALi0h4+xDSs3Aj67kfXJ\n4+C/pLo4bhaXcBJeqSntda6Qmta8a3DIZiQ84uv23q0YyKUfdtK+9U0k6ctQBdl+\nIrOREkw/Ath2K/7Ec0ULlilz+KXRVm+Kd7+auYOnloVK8n3V/eSfdaTPFe/kyavj\nmxRB1OYCCHg17NKIcZ/QxmJf\n-----END PRIVATE KEY-----\n",
+  "databaseName": "crusader-e7684",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fkdlg%40loopbackapi-7647e.iam.gserviceaccount.com"
+}
